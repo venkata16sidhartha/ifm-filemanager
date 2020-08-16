@@ -1,7 +1,7 @@
 FileManager
 ===========
 
-Author: Stas Dymedyuk
+
 
 File manager with client and server.
 To run Server, go to Server folder and run server.py
